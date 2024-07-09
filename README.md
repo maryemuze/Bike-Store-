@@ -10,7 +10,7 @@ To analyze the sales data of the Bike Store and provide actionable insights for 
 - Conclusion
 
   ## Data Sources
- Sales data: The primary dataset used for this analysisis the " Bike Sales.csv" file containing detailed information about the sale made by the company.
+ Sales data: The primary dataset used for this analysis is the " Bike Sales.csv" file containing detailed information about the sale made by the company.
 
   ## Tools Utilized
   - Google Sheet  [[download here](https://docs.google.com/spreadsheets/d/1Gxi9h1LIbEG0JLmAZWIkO0hbcnkV8D7SPyBR98yyeY0/edit?gid=1927331285#gid=1927331285))
